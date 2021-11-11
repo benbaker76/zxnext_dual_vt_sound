@@ -1,0 +1,12 @@
+src/music.asm
+src/sfx.asm
+src/ayfx.asm
+src/ayfxplay.asm
+src/vt_sound.asm
+src/PT3PROM.asm
+src/globals.asm
+src/globals.c
+src/bank.c
+src/sound.c
+src/dma.c
+src/main.c

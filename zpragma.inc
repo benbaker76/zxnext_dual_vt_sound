@@ -1,0 +1,13 @@
+#pragma output CRT_ORG_CODE = 0x8184
+#pragma output CRT_APPEND_MMAP = 1
+#pragma output REGISTER_SP = 0xB000
+#pragma output CRT_STACK_SIZE = 127
+#pragma output CLIB_MALLOC_HEAP_SIZE = 0
+#pragma output CLIB_STDIO_HEAP_SIZE = 0
+#pragma output CLIB_FOPEN_MAX = -1
+#pragma output CRT_ORG_BANK_14 = 0xC000
+#pragma output CRT_ORG_BANK_15 = 0xC000
+#pragma output CRT_ORG_BANK_32 = 0x4000
+#pragma output CRT_ORG_BANK_33 = 0x4000
+#pragma output CRT_ORG_BANK_34 = 0x4000
+#pragma printf = "%c %s %d %x"
