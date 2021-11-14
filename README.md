@@ -25,11 +25,12 @@ Sinclair ZX Spectrum emulator.
 
 ## Thanks
 
-- [Michael Ware](https://www.rustypixels.uk/) for innumerable help with the Next hardware, z80 asm and optimizations
-- [Sefan Bylund](https://github.com/stefanbylund) for his z88dk examples on which these are based
-- [Peter Ped Helcmanovsky](https://github.com/ped7g) for help and optimizations
-- [Allan Albright](https://github.com/aralbrec) for help with z88dk
 - [Alan Bostrup](https://main.spacefractal.com/) for the PT3 module used in this demo
+- [Allan Albright](https://github.com/aralbrec) for help with z88dk
+- [Michael Ware](https://www.rustypixels.uk/) for innumerable help with the Next hardware, z80 asm and optimizations
+- [Peter Ped Helcmanovsky](https://github.com/ped7g) for help and optimizations
+- [S.V.Bulba](http://bulba.untergrund.net) for the original Vortex Tracker II PT3 player assembly code
+- [Sefan Bylund](https://github.com/stefanbylund) for his z88dk examples on which these are based
 
 ## License
 
