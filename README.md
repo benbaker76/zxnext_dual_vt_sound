@@ -23,6 +23,14 @@ following command:
 4. Run the zxnext_dual_vt_sound/bin/zxnext_dual_vt_sound.nex file in your
 Sinclair ZX Spectrum emulator.
 
+## Donations
+
+If you wanna support us, any donations are welcome:
+
+BTC: 0xb34A97167D8C46f89B2f822244da95f24416D04d
+ETH: 0x3056bc1F8B3cA0c22DAbbE1cdD66EE4947E96e55
+RTM: RJby6dvr7sta1bMC456UkdqWwnqhmY79Ba
+
 ## Thanks
 
 - [Alan Bostrup](https://main.spacefractal.com/) for the PT3 module used in this demo
